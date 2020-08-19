@@ -31,7 +31,7 @@ yarn generate-bootsplash
 ios 는 pod install
 ```
 
-![splash1](/Users/konghyoeun/Desktop/Study/docx/ReactNative/image/splash1.png)
+![splash1](https://raw.githubusercontent.com/HyoeunKong/ReactNative_Study/master/image/splash1.png)
 
 - The path to the root of your React Native project : 프로젝트 최상위 경로 
 - The path to your static assets directory: 생성된 splash 배경 이미지 들어갈 폴더?
@@ -82,7 +82,7 @@ ios/<myProjectName>/BootSplash.storyboard 생성된것을 확인할 수 있음
 
 xCode로 이동 후 MyProjectName 폴더에 BootSplash.storyboard를 넣어준다! 저장후 다시 빌드하면 스플래시가 적용된것을 확인 할 수 있음
 
-### ![splash2](/Users/konghyoeun/Desktop/Study/docx/ReactNative/image/splash2.png)
+### ![splash2](https://raw.githubusercontent.com/HyoeunKong/ReactNative_Study/master/image/splash2.png)
 
 
 

@@ -8,7 +8,7 @@
 
 1. 다운로드 받은 폰트 파일을 ios/Fonts 폴더를 만들고 그 안에 복사한다.
 
-   ![ios_font1](/Users/konghyoeun/Desktop/Study/docx/ReactNative/image/ios_font1.png)
+   ![ios_font1](https://raw.githubusercontent.com/HyoeunKong/ReactNative_Study/master/image/ios_font1.png)
 
 
 
